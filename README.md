@@ -7,7 +7,7 @@
 - The goal is to provide clients a safe and happy journey in a pocket friendly budget.
 
 
-## Preview
+## Preview ![Screenshot (501)](https://user-images.githubusercontent.com/82198522/173791042-6dc9c868-e110-4162-a783-7fb0e9cdcbf1.png)
 
 
 ## Technologies Used
