@@ -1,22 +1,14 @@
-## Project Name - TRAVEL GUIDE
+## TRAVEL GUIDE
 > This is a travel website where users can choose travel destination and book our services.
-> 
+ 
 
 ##General Information
-- Provide general information about your project here.
-- What problem does it (intend to) solve? 
-- What is the purpose of your project?
-- Why did you undertake it?
+- This website offers a wide variety of destinations plans and offers. 
+- The goal is to provide clients a safe and happy journey in a pocket friendly budget.
 
 
 ## Technologies Used
 This webpage is created using HTML and CSS. 
-
-
-## Features
-
-
-## Setup
 
 
 ## Project Status
