@@ -7,6 +7,9 @@
 - The goal is to provide clients a safe and happy journey in a pocket friendly budget.
 
 
+##Preview
+
+
 ## Technologies Used
 This webpage is created using HTML and CSS. 
 
