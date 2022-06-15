@@ -2,12 +2,12 @@
 > This is a travel website where users can choose travel destination and book our services.
  
 
-##General Information
+## General Information
 - This website offers a wide variety of destinations plans and offers. 
 - The goal is to provide clients a safe and happy journey in a pocket friendly budget.
 
 
-##Preview
+## Preview
 
 
 ## Technologies Used
