@@ -27,5 +27,9 @@ I will keep working on it until it's a fully functional website.
 - Soon i will make this website more responsive by applying Javascript.
 
 
+## Note
+This website is best viewed in Google Chrome Browser.
+
+
 ## Contact
 Created by badboyshubhendu@gmail.com  feel free to contact me!
