@@ -1,0 +1,120 @@
+body,html{
+  height: 100%;
+  margin: 0;
+}
+p{
+  text-align: justify;
+  padding: 0px 120px 30px 120px;
+}
+h2{
+  text-align: center;
+  padding: 10px 0px 10px 0px;  
+}
+
+.section1{
+  background-color:#918f8fec;
+  color:rgb(255, 253, 253);
+  font-size: 20px;
+  letter-spacing: 2px;
+}
+section{
+  background-color:#282e34;
+  color:#ddd;
+  padding: 5px 0px;
+}  
+
+.pic{
+  position:relative;
+  opacity:0.90;
+  background-position:center;
+  background-size:cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+  
+  .pic1{
+    background-image:url('../images/1.jpg');
+    min-height:100%;
+  } 
+  .pic2{
+    background-image:url('../images/5.jpg');
+    min-height:80%;
+  }  
+  .pic3{
+    background-image:url('../images/6.jpg');
+    min-height:80%;
+  }
+  .pic4{
+    background-image:url('../images/7.jpg');
+    min-height:80%;
+  }
+  .pic5{
+    background-image:url('../images/8.jpg');
+    min-height:80%;
+  }
+  .pic6{
+    background-image:url('../images/9.jpg');
+    min-height:80%;
+  }
+  .pic7{
+    background-image:url('../images/10.jpg');
+    min-height:80%;
+  }
+  .pic8{
+    background-image:url('../images/12.jpg');
+    min-height:80%;
+  }
+  .pic9{
+    background-image:url('../images/15.jpg');
+    min-height:80%;
+  }
+  .pic10{
+    background-image:url('../images/11.jpg');
+    min-height:80%;
+  }
+  .pic11{
+    background-image:url('../images/14.jpg');
+    min-height:80%;
+  }
+  .pic12{
+    background-image:url('../images/2.jpg');
+    min-height:80%;
+  }
+ 
+  .textbox{
+    position:absolute;
+    top:50%;
+    width:100%;
+    text-align:center;
+    font-size:30px;
+    letter-spacing:10px;
+    text-transform:uppercase;
+  }
+
+  .imagetext0{
+    background-color:rgba(0, 0, 0, 0.616);
+    color:#fff;
+    font-size: 60px;
+    padding: 30px;
+  }
+  .imagetext{
+    background-color:rgba(49, 49, 49, 0);
+    color:#fff;
+    font-size: 40px;
+  }
+   
+  @media(max-width:500px){
+    p{
+      text-align: justify;
+      padding: 0px 10px 10px 10px;
+    }
+    .imagetext0{
+      background-color:rgba(0, 0, 0, 0.616);
+      color:#fff;
+      font-size: 20px;
+      padding: 20px;
+    }
+    .pic{
+      min-height: 60%;
+    }
+  } 
